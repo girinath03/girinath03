@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GIRINATH M</h1>
 <h3 align="center">A passionate Web  developer and Tech enthusiast </h3>
-<img align="right" alt="Coding" width="500" height="400" src="https://i.pinimg.com/564x/9b/d6/39/9bd6396a865f76d84397cfc99e7f5efc.jpg">
+<img align="right" alt="Coding" width="550" height="400" src="https://i.pinimg.com/564x/9b/d6/39/9bd6396a865f76d84397cfc99e7f5efc.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girinath03&label=Profile%20views&color=0e75b6&style=flat" alt="girinath03" /> </p>
 
 

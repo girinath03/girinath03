@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm GIRINATH M</h1>
 <h3 align="center">A passionate Web  developer and Tech enthusiast </h3>
-<img align="right" alt="Coding" width="600" height="400" src="https://i.pinimg.com/564x/9b/d6/39/9bd6396a865f76d84397cfc99e7f5efc.jpg">
+<img align="right" alt="Coding" width="500" height="400" src="https://i.pinimg.com/564x/9b/d6/39/9bd6396a865f76d84397cfc99e7f5efc.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girinath03&label=Profile%20views&color=0e75b6&style=flat" alt="girinath03" /> </p>
 
 
@@ -37,8 +37,8 @@
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>   
 <!--<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
     <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/netlify-512.png" alt="Netlify" width="40" height="40"/></a> 
-    <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYenXFZbsCKXPtKuPdKNL-Ex3AjTtddsM71Q&s" alt="frammer" width="40" height="40"/>
-</a>
+<!--     <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYenXFZbsCKXPtKuPdKNL-Ex3AjTtddsM71Q&s" alt="frammer" width="40" height="40"/>
+</a> -->
 <!--     <a href="https://www.figma.com/@guganmk" target="_blank" rel="noreferrer"><img src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster-thumbnail.png" alt="Figma" width="40" height="40"/></a> -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/logomark-orange@2x.png" alt="Git" width="40" height="40"/>
 </a>
